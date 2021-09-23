@@ -16,7 +16,7 @@
     },
 
     "StorageAccountName": {
-      "value": "SingleTenantLAgit"
+      "value": "storageacctgitdemo"
     },
 
     "sku": {
