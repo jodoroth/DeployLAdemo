@@ -3,20 +3,20 @@
     "contentVersion": "1.0.0.0",
   "parameters": {
     "logicAppname": {
-      "value": "SingleTenantLAgit"
+      "value": "SingleTenantLAgit1"
     },
     "appInsightName": {
-      "value": "SingleTenantLAgit"
+      "value": "SingleTenantLAgit1"
     },
     "use32BitWorkerProcess": {
       "value": true
     },
     "hostingPlanName": {
-      "value": "SingleTenantLAgit"
+      "value": "SingleTenantLAgit1"
     },
 
     "StorageAccountName": {
-      "value": "storageacctgitdemo"
+      "value": "storageacctgitdemoex"
     },
 
     "sku": {
